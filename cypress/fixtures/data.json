@@ -1,0 +1,13 @@
+{
+  "Name": "Ralfs",
+  "LastName": "Lapers",
+  "Email": "ralfskarlis.lapers@va.lv",
+  "Gender": "Male",
+  "Mobile": 22110358,
+  "imgPath":"cypress/files/default.jpg",
+  "Address": "My house",
+  "Subject": "Economics", 
+  "Hobbies": "Music", 
+  "State": "NCR", 
+  "City": "Delhi" 
+}
